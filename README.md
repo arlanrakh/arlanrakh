@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlanrakh&label=Profile%20views&color=0e75b6&style=flat" alt="arlanrakh" /> </p>
 
-- 🔭 I’m currently working on [Extracurrify](https://extracurrify.com/)
+- 🔭 I’m currently working on [Extracurrify](https://extracurrify.com/) and [DresserAI](https://www.dresserai.com/)
 
 - 🌱 I’m currently learning **Nextjs, Vercel AI SDK**
 
