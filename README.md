@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlanrakh&label=Profile%20views&color=0e75b6&style=flat" alt="arlanrakh" /> </p>
 
-- 🔭 I’m currently working on [Extracurrify](https://extracurrify.com/) and [DresserAI](https://www.dresserai.com/)
-
+- 🔭 I’m currently working on [Extracurrify](https://extracurrify.com/) and [Nozomio]
 - 🌱 I’m currently learning **Nextjs, Vercel AI SDK**
 
 - 👯 I’m looking to collaborate on [Foundity](https://foundity.com/)
@@ -14,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/arlan-rakhmetzhanov-92593425a/](https://www.linkedin.com/in/arlan-rakhmetzhanov-92593425a/)
 
-- 💬 Ask me about **startups, AI, tech**
+- 💬 Ask me about **startups, AI, tech, cooking, volleyball, and anime**
 
 - 📫 How to reach me **arlan@hanlantech.net**
 
