@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arlan</h1>
-<h3 align="center">17 years old, founder @ hanlan tech | VC book author | full-stack engineer</h3>
+<h3 align="center">17 Years Old, Founder @ Nozomio | RA Stanford</h3>
 <img align="right" alt="Coding" width="300" src="https://66.media.tumblr.com/b0160fdb6079dfb0944d642c85eba3fa/tumblr_pl76a0tO8i1vmiunio1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlanrakh&label=Profile%20views&color=0e75b6&style=flat" alt="arlanrakh" /> </p>
 
-- 🔭 I’m currently working on [Extracurrify](https://extracurrify.com/) and [Nozomio]
-- 🌱 I’m currently learning **Nextjs, Vercel AI SDK**
-
-- 👯 I’m looking to collaborate on [Foundity](https://foundity.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.arlanrakhmetzhanov.com/](https://www.arlanrakhmetzhanov.com/)
+- 🔭 I’m currently working on [Nozomio Labs](https://nozomio.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/arlan-rakhmetzhanov-92593425a/](https://www.linkedin.com/in/arlan-rakhmetzhanov-92593425a/)
 
 - 💬 Ask me about **startups, AI, tech, cooking, volleyball, and anime**
 
 - 📫 How to reach me **arlan@hanlantech.net**
-
-- 📄 Know about my experiences [https://www.arlanrakhmetzhanov.com/](https://www.arlanrakhmetzhanov.com/)
 
 - ⚡ Fun fact **took call with stanford professor at local laundromat:)**
 
