@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arlan</h1>
-<h3 align="center">17 Years Old, Founder @ Nozomio | RA Stanford</h3>
+<h3 align="center">18 Years Old, Founder @ Nozomio</h3>
 <img align="right" alt="Coding" width="300" src="https://66.media.tumblr.com/b0160fdb6079dfb0944d642c85eba3fa/tumblr_pl76a0tO8i1vmiunio1_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlanrakh&label=Profile%20views&color=0e75b6&style=flat" alt="arlanrakh" /> </p>
