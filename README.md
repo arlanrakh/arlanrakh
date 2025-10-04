@@ -1,4 +1,4 @@
-arlan, working 100 hours / week -> nozomio.com 
+arlan. grinding nozomio.com 
 
 nia is generally available @ trynia.ai 
 
