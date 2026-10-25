@@ -1,6 +1,3 @@
-arlan. grinding nozomio.com 
+folk.com 
 
-nia is generally available @ trynia.ai 
-
-prev:
-hs junior dropout, stanford research at 16
+ts better than gpt 
